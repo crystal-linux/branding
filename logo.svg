@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="724px" height="1024px" viewBox="0 0 724 1024" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M142 732.5L653 220.5L432.5 0L362 70.5L511.5 220.5L0 732.5L142 732.5Z" transform="translate(71 291.5)" id="path_1" />
+    <path d="M511 0L0 512L219.5 731.5L219.5 731.5L220.5 731.5L290.5 661.5L141.5 512L651.5 0L511 0Z" id="path_2" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+  </defs>
+  <g id="New-shape">
+    <g clip-path="url(#clip_1)">
+      <use xlink:href="#path_1" fill="none" stroke="#000000" stroke-width="408" />
+    </g>
+  </g>
+  <g id="New-shape-2">
+    <g clip-path="url(#clip_2)">
+      <use xlink:href="#path_2" fill="none" stroke="#000000" stroke-width="398" />
+    </g>
+  </g>
+</svg>
