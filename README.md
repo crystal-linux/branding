@@ -1,4 +1,6 @@
-# branding
-any logos and promotional artwork made for/used by crystalux
+# Branding
+Any logos/promotional artwork made for/used by **CrystalUX**
 
-credit to [jaasio](https://github.com/jaasio) for the minimal logo svg
+Credits:
+[jaasio](https://github.com/jaasio)
+[MikuOcta](https://github.com/MikuOcta)
