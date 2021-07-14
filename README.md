@@ -6,7 +6,7 @@
 <p align="center"> 
 <h2 align="center"> Brandning. </h2>
 </p>
-Any logos/promotional artwork made for/used by **CrystalUX**
+<p align="center"> Any logos/promotional artwork made for/used by **CrystalUX** </p>
 
 Credits:
 [jaasio](https://github.com/jaasio)
