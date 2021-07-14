@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center"> 
-<h2 align="center"> Brandning. </h2>
+<h2 align="center"> Branding </h2>
 </p>
 <p align="center"> Any logos/promotional artwork made for/used by **CrystalUX** </p>
 
