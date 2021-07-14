@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/crystalux-project/branding">
+  <a href="https://github.com/crystalux-project">
     <img src="https://github.com/crystalux-project/branding/blob/main/crystalux-logo-promo.png?raw=true" alt="Logo" width="150" height="150">
   </a>
 </p>
