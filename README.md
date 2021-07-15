@@ -7,10 +7,10 @@
 <h2 align="center"> Branding </h2>
 </p>
 <p align="center">
-<img src=https://img.shields.io/github/stars/crystalux-project/branding?style=flat&logo=appveyor&color=a900ff />
-<img src=https://img.shields.io/github/forks/crystalux-project/branding?style=flat&logo=appveyor&color=a900ff />
-<img src=https://img.shields.io/github/issues/crystalux-project/branding?style=flat?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAYElEQVQokZWSUQ7AIAxCy+5/5+5nJpWBRP40vAasqKHuLiUAXVWYd490BiiCDjqCDHENCRKki099U5UxwpuB4m0H23FBbkUMwsSyr6uMp846Hg9Q+nUc8P0eEyTB9GOWXr6sNfqfBHuwAAAAAElFTkSuQmCC&color=a900ff />
-<img src=https://img.shields.io/github/issues-pr/crystalux-project/branding?style=flat&logo=appveyor&color=a900ff />
+<img src=https://img.shields.io/github/stars/crystalux-project/branding?style=flat&color=a900ff />
+<img src=https://img.shields.io/github/forks/crystalux-project/branding?style=flat&color=a900ff />
+<img src=https://img.shields.io/github/issues/crystalux-project/branding?style=flat&color=a900ff />
+<img src=https://img.shields.io/github/issues-pr/crystalux-project/branding?style=flat&color=a900ff />
 <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
 <p align="center"> Any logos/promotional artwork made for/used by <b>CrystalUX</b> </p>
 
