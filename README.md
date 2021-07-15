@@ -12,7 +12,7 @@
 <img src=https://img.shields.io/github/issues/crystalux-project/branding?style=flat&logo=appveyor&color=a900ff />
 <img src=https://img.shields.io/github/issues-pr/crystalux-project/branding?style=flat&logo=appveyor&color=a900ff />
 <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
-<p align="center"> Any logos/promotional artwork made for/used by **CrystalUX** </p>
+<p align="center"> Any logos/promotional artwork made for/used by <b>CrystalUX</b> </p>
 
 
 
