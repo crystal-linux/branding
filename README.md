@@ -7,7 +7,7 @@
 <h2 align="center"> Branding </h2>
 </p>
 <p align="center">
-<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW></a></p>
+<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW"></a></p>
 <p align="center"> Any logos/promotional artwork made for/used by <b>Crystal</b> </p>
 ## Branding Guidelines
 
@@ -46,8 +46,3 @@ We ask for the following colours to be used for any media on/about Crystal or in
 ## Fonts
 
 Typically, for official graphics we prefer to use [Open Sans](https://github.com/googlefonts/opensans) and [Lato](https://fonts.google.com/specimen/Lato)
-
-Credits:
-[jaasio](https://github.com/jaasio)
-[MikuOcta](https://github.com/MikuOcta)
-[jnats](https://github.com/jnats)
