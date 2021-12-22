@@ -1,15 +1,16 @@
 <p align="center">
-  <a href="https://github.com/crystal-linux">
-    <img src="https://github.com/crystal-linux/branding/raw/main/logos/crystal-logo-minimal.png" alt="Logo" width="150" height="150">
+  <a href="https://getcryst.al">
+    <img src="https://git.getcryst.al/crystal/branding/raw/main/icons/crystal-logo-minimal.png" alt="Logo" width="150" height="150">
   </a>
 </p>
 <p align="center"> 
 <h2 align="center"> Branding </h2>
 </p>
 <p align="center">
-<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW"></a></p>
-<p align="center"> Any logos/promotional artwork made for/used by <b>Crystal</b> </p>
-## Branding Guidelines
+<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
+
+<p align="center"> Guidlines for a consistent look in all parts of the project. </p>
+
 
 The following section will describe the guidelines we ask to be enforced when designing media for or about the Crystal Linux distribution. You are under no legal obligation to follow these rules, but following them will result in a cleaner, more consistent look, in line with what we are making for official media.
 
