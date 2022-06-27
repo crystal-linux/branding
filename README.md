@@ -16,7 +16,8 @@ The following section will describe the guidelines we ask to be enforced when de
 
 ## Naming
 
-Following our rebranding from "CrystalUX" to "Crystal", we asked to be referred to as such. "Crystal Linux" and "the Crystal Linux distribution" are also applicable in situations where "Crystal" would be too broad or confusing of a term.
+We ask to be referred to as "Crystal"
+ "Crystal Linux" and "the Crystal Linux distribution" are also applicable in situations where "Crystal" would be too broad or confusing of a term.
 
 ## Use of Logo
 
@@ -47,3 +48,7 @@ We ask for the following colours to be used for any media on/about Crystal or in
 ## Fonts
 
 Typically, for official graphics we prefer to use [Open Sans](https://github.com/googlefonts/opensans) and [Lato](https://fonts.google.com/specimen/Lato)
+
+## Apps 
+
+We kindly ask that with any commits to our homemade apps you follow the GNOME HIG (https://developer.gnome.org/hig/) (https://wiki.gnome.org/Design/HIG) as we're trying to create a unified experience with GTK4 and libadwaita.
