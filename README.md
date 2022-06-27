@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://getcryst.al">
+  <a href="https://github.com/crystal-linux/branding">
     <img src="https://raw.githubusercontent.com/crystal-linux/branding/main/logos/crystal-logo-minimal.png" alt="Logo" width="150" height="150">
   </a>
 </p>
@@ -7,7 +7,9 @@
 <h2 align="center"> Branding </h2>
 </p>
 <p align="center">
-<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </p></a>
+<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </a>
+<img src="https://img.shields.io/badge/Maintainer-@jaasio-brightgreen" alt=The maintainer of this repository" href="https://github.com/jaasio">
+</p>
 
 <p align="center"> Guidlines for a consistent look in all parts of the project. </p>
 
