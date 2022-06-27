@@ -52,3 +52,10 @@ Typically, for official graphics we prefer to use [Open Sans](https://github.com
 ## Apps 
 
 We kindly ask that with any commits to our homemade apps you follow the GNOME HIG (https://developer.gnome.org/hig/) (https://wiki.gnome.org/Design/HIG) as we're trying to create a unified experience with GTK4 and libadwaita.
+
+## Resources 
+
+Many of our designs base on the GNOME HIG, here are some links
+https://wiki.gnome.org/Design/HIG
+https://developer.gnome.org/hig/
+https://gitlab.gnome.org/Teams/Design
