@@ -49,7 +49,7 @@ We ask for the following colours to be used for any media on/about Crystal or in
 
 ## Fonts
 
-Typically, for official graphics we prefer to use [Open Sans](https://github.com/googlefonts/opensans) and [Lato](https://fonts.google.com/specimen/Lato)
+Typically, for official graphics we prefer to use [Open Sans](https://github.com/googlefonts/opensans), [Lato](https://fonts.google.com/specimen/Lato) and [Cantarell](https://gitlab.gnome.org/GNOME/cantarell-fonts). 
 
 ## Apps 
 
