@@ -7,8 +7,12 @@
 <h2 align="center"> Branding </h2>
 </p>
 <p align="center">
-<a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </a>
-<img src="https://img.shields.io/badge/Maintainer-@jaasio-brightgreen" alt=The maintainer of this repository" href="https://github.com/hericiumvevo">
+    <a href="https://github.com/crystal-linux/.github/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg" alt="License">
+    <a href="https://github/crystal-linux/branding"><img alt="GitHub isses" src="https://img.shields.io/github/issues-raw/crystal-linux/branding"></a>
+    <a href="https://github/crystal-linux/branding"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr-raw/crystal-linux/branding"></a><br>
+    <a href="https://twitter.com/intent/user?screen_name=crystal_linux"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crystal_linux?style=flat?color=blue">
+    <a href="https://discord.gg/yp4xpZeAgW"><img alt="Discord" src="https://img.shields.io/discord/825473796227858482?color=blue&label=Discord&logo=Discord&logoColor=white"?link=https://discord.gg/yp4xpZeAgW&link=https://discord.gg/yp4xpZeAgW> </a>
+    <img src="https://img.shields.io/badge/Maintainer-@hericiumvevo-brightgreen" alt=The maintainer of this repository" href="https://github.com/hericiumvevo">
 </p>
 
 <p align="center"> Guidlines for a consistent look in all parts of the project. </p>
