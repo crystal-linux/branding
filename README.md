@@ -37,24 +37,15 @@ We ask for the following colours to be used for any media on/about Crystal or in
 ###### Logo:
 
 - ![#A900FF](https://via.placeholder.com/15/A900FF/000000?text=+) `#A900FF`
-- ![#535353](https://via.placeholder.com/15/535353/000000?text=+) `#535353`
+- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
  
-###### Background: 
-
-- ![#2B2B2B](https://via.placeholder.com/15/2B2B2B/000000?text=+) `#2B2B2B`
-
 ###### General Colour Scheme:
 
-- ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000`
-- ![#A900FF](https://via.placeholder.com/15/A900FF/000000?text=+) `#A900FF`
-- ![#E4E4E4](https://via.placeholder.com/15/E4E4E4/000000?text=+) `#E4E4E4`
- - ![#0084FF](https://via.placeholder.com/15/0084FF/000000?text=+) `#0084FF`
-- ![#535353](https://via.placeholder.com/15/535353/000000?text=+) `#535353`
-- ![#2B2B2B](https://via.placeholder.com/15/2B2B2B/000000?text=+) `#2B2B2B`
+We recently started using [Catpuccin](https://github.com/catppuccin/catppuccin) Mocha as the general colour scheme for the project.
 
 ## Fonts
 
-Typically, for official graphics we prefer to use [Open Sans](https://github.com/googlefonts/opensans), [Lato](https://fonts.google.com/specimen/Lato) and [Cantarell](https://gitlab.gnome.org/GNOME/cantarell-fonts). 
+Typically, for official graphics we prefer to use [Cantarell](https://gitlab.gnome.org/GNOME/cantarell-fonts). 
 
 ## Apps 
 
