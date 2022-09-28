@@ -16,15 +16,16 @@
     <a href="https://twitter.com/crystal_linux"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/crystal_linux"></a>
 </p>
 
-<p align="center"> Guidlines for a consistent look in all parts of the project. </p>
+<p align="center"> Guidelines for a consistent look in all parts of the project. </p>
 
 
 The following section will describe the guidelines we ask to be enforced when designing media for or about the Crystal Linux distribution. You are under no legal obligation to follow these rules, but following them will result in a cleaner, more consistent look, in line with what we are making for official media.
 
 ## Naming
 
-We ask to be referred to as "Crystal"
- "Crystal Linux" and "the Crystal Linux distribution" are also applicable in situations where "Crystal" would be too broad or confusing of a term.
+We ask to be referred to as `Crystal` (not `Crystal GNU/Linux`)
+
+ "Crystal Linux" and `the Crystal Linux distribution` are also applicable in situations where `Crystal` would be too broad or confusing of a term.
 
 ## Use of Logo
 
@@ -53,7 +54,14 @@ We kindly ask that with any commits to our homemade apps you follow the GNOME HI
 
 ## Resources 
 
-Many of our designs base on the GNOME HIG, here are some links
+All of our designs base on the GNOME HIG, here are some links
+
 https://wiki.gnome.org/Design/HIG
+
 https://developer.gnome.org/hig/
+
 https://gitlab.gnome.org/Teams/Design
+
+## Promotional/Media
+
+For graphics like banners and other promotional material, we prefer to use our logo in the white variant, paired with the [Cantarell](https://gitlab.gnome.org/GNOME/cantarell-fonts) font.
