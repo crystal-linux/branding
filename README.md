@@ -25,7 +25,7 @@ The following section will describe the guidelines we ask to be enforced when de
 
 We ask to be referred to as `Crystal` (not `Crystal GNU/Linux`)
 
- "Crystal Linux" and `the Crystal Linux distribution` are also applicable in situations where `Crystal` would be too broad or confusing of a term.
+ `Crystal Linux` and `the Crystal Linux distribution` are also applicable in situations where `Crystal` would be too broad or confusing of a term.
 
 ## Use of Logo
 
